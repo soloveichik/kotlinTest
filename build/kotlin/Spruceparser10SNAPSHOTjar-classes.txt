@@ -1,0 +1,1 @@
+/Users/pavels/IdeaProjects/Spruce-parser/build/classes/kotlin/main/pasha/first/kotlin/parser/LogParserKt.class
